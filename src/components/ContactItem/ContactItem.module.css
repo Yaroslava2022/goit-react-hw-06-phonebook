@@ -10,3 +10,10 @@
   .contactName {
     font-weight: 700;
   }
+  .button {
+    margin-top: 12px;
+    width: 70px;
+    height: 30px;
+    padding: 5px;
+    border-radius: 4px;
+  }
